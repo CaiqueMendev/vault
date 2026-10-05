@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779626487930-u1ujpcq83",
+  "providerId": "claude",
+  "title": "Architect ERP-app batch sync solution",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779626487930,
+  "updatedAt": 1779626792494,
+  "lastResponseAt": 1779626792494,
+  "sessionId": "ecc1c816-8ba5-455a-ab6d-44f50914e144",
+  "providerState": {
+    "providerSessionId": "ecc1c816-8ba5-455a-ab6d-44f50914e144"
+  },
+  "currentNote": "01-Projects/lottiar/CLAUDE.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1695,
+    "cacheReadInputTokens": 104579,
+    "contextWindow": 1000000,
+    "contextTokens": 106276,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

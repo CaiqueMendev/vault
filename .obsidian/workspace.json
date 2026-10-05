@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fcda403c6356187a",
+        "id": "4ae8d84d5474c63b",
         "type": "tabs",
         "children": [
           {
-            "id": "af88c165b725e68d",
+            "id": "a9412fe80ee805d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "0364e01cf4303e52",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +31,8 @@
               "title": "Nova aba"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -74,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "3b95ec7a2a6b2aff",
@@ -157,28 +174,109 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "d6011e602a437cac",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "c382dbc068796144",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view-connections",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "7d4180c9cd560eed",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 295.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
+      "templater-obsidian:Templater": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "af88c165b725e68d",
+  "active": "0364e01cf4303e52",
   "lastOpenFiles": [
+    "_Templates/Diario-Maestro.md",
+    "_Templates/Delegacao.md",
+    "_Templates/Diario.md",
+    "_Templates/Pessoa.md",
+    "_Templates/Conceito.md",
+    "_Templates/Area.md",
+    "_Templates/Projeto.md",
+    "_Templates",
+    "02_Projetos/Kivo/_indice.md",
+    "02_Projetos/Kivo",
+    "02_Projetos/Chegou/_indice.md",
+    "02_Projetos/Chegou",
+    "02_Projetos/Meta-Ads-Loteamentos/_indice.md",
+    "02_Projetos/Meta-Ads-Loteamentos",
+    "02_Projetos/Lottiar-Franquias/_indice.md",
+    "02_Projetos/Lottiar-Franquias",
+    "02_Projetos/Prumo/_indice.md",
+    "02_Projetos/Prumo",
+    "02_Projetos/Infra-VPS/_indice.md",
+    "02_Projetos/Infra-VPS",
+    "02_Projetos/Formalizacao-Plena/_indice.md",
+    "02_Projetos/Formalizacao-Plena",
+    "02_Projetos/MCMV-Digital/_indice.md",
+    "02_Projetos/MCMV-Digital",
+    "02_Projetos/DeltaHub/_indice.md",
+    "02_Projetos/DeltaHub",
+    "02_Projetos/Carro/_indice.md",
+    "02_Projetos/Vida-RPG/_indice.md",
+    "02_Projetos/Sistema-Maestro/_indice.md",
+    "03_Areas/Desenvolvimento-Pessoal.md",
+    "03_Areas/Lottiar.md",
+    "03_Areas/Plena-Lottiar.md",
+    "03_Areas/Plena-Tecnologia.md",
+    "00_Maestro/Agentes/Dev.md",
+    "00_Maestro/Ferramentas.md",
     "VAULT-INDEX.md",
-    "CLAUDE.md"
+    "01-Projects/lottiar/LottiarApp-Frontend/public/playstore.svg",
+    "01-Projects/lottiar/LottiarApp-Frontend/public/apple.svg",
+    "01-Projects/lottiar/LottiarApp-Frontend/public/icons8-google-play.svg",
+    "01-Projects/lottiar/LottiarApp-Frontend/public/icons8-apple.svg",
+    "04-Archive/CICLO-DE-VIDA-PROPOSTA-APP.png",
+    "04-Archive/modal_lote_gestora.png",
+    "04-Archive/Captura de tela de 2026-05-28 10-43-37.png",
+    "Sem título.canvas"
   ]
 }
